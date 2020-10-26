@@ -13,4 +13,10 @@
 ## ნაბიჯი 4
 ![Step 4](http://academy.63bits.com/upload/assets/lesson1/04.jpg)
 
+## ნაბიჯი 5
+![Step 5](http://academy.63bits.com/upload/assets/lesson1/05.jpg)
+
+## ნაბიჯი 6
+![Step 6](http://academy.63bits.com/upload/assets/lesson1/06.jpg)
+
 ###### გილოცავთ !!! თქვენ შექმენით ახალი/ცარიელი MVC პროექტი
